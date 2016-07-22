@@ -1,0 +1,23 @@
+div{
+	width: 200px;
+	height: 200px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.red{
+	background: #EE3E64;
+}
+.blue{
+	background: #44ACCF;
+	top: 200px;
+	left: 200px;
+	position: absolute;
+}
+.green{
+	background: #B7D84B;
+}
+.yellow{
+	background: yellow;
+}
